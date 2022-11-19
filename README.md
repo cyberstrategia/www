@@ -1,6 +1,5 @@
 # [cyberstrategia](http://www.cyberstrategia.pl)
 
-
 + jak, co i dla kogo planujemy?
 
 
@@ -202,6 +201,10 @@ discord na prawdę może tu być użyteczny bo to łatwe narzędzie na linkedin 
 
 Polska to za płytki rynek, ludzie kreatywni z Polski powinni zarabiać tony złota i do tego chiałbym doprowadzić poprzez kanalizację specjalistów
 
+
+## Zapraszamy do włączenia się w projekt
+
++ [kanał na discord](https://discord.com/invite/7nCmFffW)
 
 
 ---
