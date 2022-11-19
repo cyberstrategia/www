@@ -1,4 +1,4 @@
-# [cyebrstrategia](http://www.cyberstrategia.pl)
+# [cyberstrategia](http://www.cyberstrategia.pl)
 
 
 + jak, co i dla kogo planujemy?
