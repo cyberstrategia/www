@@ -5,20 +5,22 @@
 
 ## Czym jest makerslab 
 
-+ MakersLab to społeczność która łączy ludzi, idee i działania. 
++ MakersLab to społeczność, która łączy ludzi, idee i działania. 
 
 W MakersLab poznajemy się bliżej w trakcie praktycznych działań, korzystamy z możliwości edukacji poprzez praktyczne indywidualne działania, które dają lepsze owoce w merytorycznej przestrzeni przyjaznych osób.
 
 + Makerslab to przestrzeń ludzi, którzy coś robią, coś wiedzą i czegoś się uczą ...
 
 
-## Aktywizacja
 
-makerslab jest społecznością ludzi działajacych, każdy coś robi po godzinach i tutaj możemy się tym dzielić w formacie rutynowych przedsięwzięć, którymi dzielimy się z innymi, w ten sposób aby nie tylko samemu odnieść korzyść ale też podzielić się tym doświadczeniem i zarazić innych
+## Środowisko
+
+Makerslab jest społecznością ludzi działajacych, każdy coś robi po godzinach i tutaj możemy się tym dzielić w formacie rutynowych przedsięwzięć, którymi dzielimy się z innymi, w ten sposób aby nie tylko samemu odnieść korzyść ale też podzielić się tym doświadczeniem i zarazić innych
 tak jak dziś np. ktoś podzielił się swoją sportową rutyną, która jeśli aktualnie nie jest to w przyszłości może być źródłem inspiracji, jeśli tylko zostanie opisana i aktualizowana w formie strony www, czy kanału na social mediach
 
+## Rutyna 
 
-nie chodzi o to by takie aktywności zabierały nam cały tydzień, to może być jeden raz na jakiś czas, ale rutynowa forma, cyklicznosć
+Nie chodzi o to by takie aktywności zabierały nam cały tydzień, to może być jeden raz na jakiś czas, ale rutynowa forma, cyklicznosć
 temat nie jest tak istotny, jak forma w jakiej będzie to wykonane i na tym polu możemy dzielić się doświadczeniami i szybciej rozwijać, bo od rutyny do automatyzacji jest bliżej
 
 
